@@ -1,1 +1,3 @@
 Hello, here we will play a bit with Git!
+
+Now with new brach.
