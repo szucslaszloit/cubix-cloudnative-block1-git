@@ -1,3 +1,5 @@
 Hello, here we will play a bit with Git!
-
 Now with new brach.
+Now we are playing
+This time from Github in a browser
+
